@@ -1,0 +1,12 @@
+nome = input("Digite o seu Nome: ")
+idade = input ("Digite a sua Idade: ")
+cidade = input ("Digite a sua Cidade: ")
+estado = input ("Digite o seu Estado: ")
+
+print("**************************")
+print("Seus Dados são: ")
+print("")
+print(f"Nome: {nome} \nIdade: {idade} \nCidade: {cidade} \nEstado: {estado}")
+print("**************************")
+print("")
+print("Cadastro realizado com sucesso!")
